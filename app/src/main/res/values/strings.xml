@@ -127,6 +127,10 @@
             mashed potato patty\",\"chilli peppers\",\"garlic\",\"ginger\",\"bread bun\"]}
         </item>
     </string-array>
+    <string name="alsoKnownAs">Also known As</string>
+    <string name="placeOfOrigin">Place Of Origin</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="description">Description</string>
 
 </resources>
 <!-- Photo credits to Wikimedia Commons -->
